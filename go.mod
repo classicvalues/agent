@@ -38,7 +38,7 @@ require (
 )
 
 require (
-	github.com/docker/docker v20.10.22+incompatible
+	github.com/docker/docker v20.10.23+incompatible
 	github.com/google/go-cmp v0.5.7 // indirect
 	github.com/mdlayher/netlink v1.6.0 // indirect
 	golang.org/x/net v0.0.0-20220421235706-1d1ef9303861 // indirect
