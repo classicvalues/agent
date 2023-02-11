@@ -25,7 +25,6 @@ require (
 	github.com/morikuni/aec v1.0.0 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/opencontainers/image-spec v1.0.2 // indirect
-	github.com/sirupsen/logrus v1.8.1 // indirect
 	go.uber.org/atomic v1.7.0 // indirect
 	go.uber.org/multierr v1.7.0 // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220106191415-9b9b3d81d5e3 // indirect
@@ -38,7 +37,7 @@ require (
 )
 
 require (
-	github.com/docker/docker v20.10.22+incompatible
+	github.com/docker/docker v23.0.1+incompatible
 	github.com/google/go-cmp v0.5.7 // indirect
 	github.com/mdlayher/netlink v1.6.0 // indirect
 	golang.org/x/net v0.0.0-20220421235706-1d1ef9303861 // indirect
