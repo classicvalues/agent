@@ -8,7 +8,7 @@ require (
 	github.com/florianl/go-nflog/v2 v2.0.1
 	github.com/google/gopacket v1.1.19
 	github.com/jarcoal/httpmock v1.2.0
-	github.com/miekg/dns v1.1.50
+	github.com/miekg/dns v1.1.51
 	github.com/pkg/errors v0.9.1
 )
 
@@ -28,10 +28,10 @@ require (
 	github.com/sirupsen/logrus v1.8.1 // indirect
 	go.uber.org/atomic v1.7.0 // indirect
 	go.uber.org/multierr v1.7.0 // indirect
-	golang.org/x/mod v0.6.0-dev.0.20220106191415-9b9b3d81d5e3 // indirect
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
+	golang.org/x/mod v0.7.0 // indirect
+	golang.org/x/sync v0.1.0 // indirect
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac // indirect
-	golang.org/x/tools v0.1.11-0.20220316014157-77aa08bb151a // indirect
+	golang.org/x/tools v0.3.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220411194840-2f41105eb62f // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gotest.tools/v3 v3.0.3 // indirect
@@ -41,6 +41,6 @@ require (
 	github.com/docker/docker v20.10.22+incompatible
 	github.com/google/go-cmp v0.5.7 // indirect
 	github.com/mdlayher/netlink v1.6.0 // indirect
-	golang.org/x/net v0.0.0-20220421235706-1d1ef9303861 // indirect
-	golang.org/x/sys v0.0.0-20220422013727-9388b58f7150 // indirect
+	golang.org/x/net v0.2.0 // indirect
+	golang.org/x/sys v0.2.0 // indirect
 )
